@@ -1,0 +1,1 @@
+<?php /**PATH F:\laravel8ecommerce\resources\views/livewire/checkout-component.blade.php ENDPATH**/ ?>
